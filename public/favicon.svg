@@ -1,13 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
-  <path fill="#000" d="M22.25 4h-8.5a1 1 0 0 0-.96.73l-5.54 19.4a.5.5 0 0 0 .62.62l5.05-1.44a2 2 0 0 0 1.38-1.4l3.22-11.66a.5.5 0 0 1 .96 0l3.22 11.67a2 2 0 0 0 1.38 1.39l5.05 1.44a.5.5 0 0 0 .62-.62l-5.54-19.4a1 1 0 0 0-.96-.73Z"/>
-  <path fill="url(#gradient)" d="M18 28a7.63 7.63 0 0 1-5-2c-1.4 2.1-.35 4.35.6 5.55.14.17.41.07.47-.15.44-1.8 2.93-1.22 2.93.6 0 2.28.87 3.4 1.72 3.81.34.16.59-.2.49-.56-.31-1.05-.29-2.46 1.29-3.25 3-1.5 3.17-4.83 2.5-6-.67.67-2.6 2-5 2Z"/>
-  <defs>
-    <linearGradient id="gradient" x1="16" x2="16" y1="32" y2="24" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#000"/>
-      <stop offset="1" stop-color="#000" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-	<style>
-    @media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
-  </style>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#30A6B0;}
+</style>
+<symbol  id="A" viewBox="-25.3 -32 50.6 64">
+	<path class="st0" d="M-4.88,4.16v12.46c0,2.59,0.44,4.85,1.32,6.76s2.04,3.51,3.49,4.77s3.06,2.22,4.85,2.87S8.39,32,10.21,32
+		s3.63-0.32,5.43-0.97s3.41-1.61,4.85-2.87s2.6-2.86,3.49-4.77s1.32-4.17,1.32-6.76V-4.14L9.17-4.16L9.15,4.16h7.15v12.46
+		c0,2.18-0.6,3.79-1.8,4.82s-2.63,1.55-4.28,1.55s-3.07-0.52-4.28-1.55s-1.8-2.64-1.8-4.82v-33.24c0-2.18,0.6-3.79,1.8-4.82
+		c1.2-1.03,2.63-1.55,4.28-1.55s3.07,0.52,4.28,1.55s1.8,2.64,1.8,4.82v3.18h9v-3.18c0-2.53-0.44-4.77-1.32-6.72
+		s-2.04-3.55-3.49-4.82c-1.42-1.26-3.07-2.23-4.85-2.87c-1.79-0.65-3.6-0.97-5.43-0.97s-3.63,0.32-5.43,0.97s-3.41,1.61-4.85,2.87
+		s-2.6,2.87-3.49,4.82s-1.32,4.18-1.32,6.72v12.46h-9.21v-9.28h2.82l-7.02-9.92l-7.02,9.92h2.92V0c0,2.3,1.86,4.16,4.15,4.16H-4.88
+		L-4.88,4.16z"/>
+</symbol>
+<use xlink:href="#A"  width="50.6" height="64" x="-25.3" y="-32" transform="matrix(6 0 0 6 256 256)" style="overflow:visible;"/>
 </svg>
